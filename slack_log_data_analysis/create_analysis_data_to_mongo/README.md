@@ -1,5 +1,4 @@
 # Create analysis data to MongoDB
--
 
 This script execute analysis data insert to MongoDB.
 
