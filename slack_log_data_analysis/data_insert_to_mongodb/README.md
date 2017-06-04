@@ -1,5 +1,5 @@
 # Data insert to MongoDB
--
+
 
 This script execute slack log data insert to MongoDB.
 
@@ -14,7 +14,7 @@ This script execute slack log data insert to MongoDB.
 	---The directory structure at the time of execution should be as follows---
 	mongo_import_slack_log.py
 	your_slack_log_data(unzip directory)/logdata...
-								        /logdata...
+					    /logdata...
 
 # Result after execution
 
